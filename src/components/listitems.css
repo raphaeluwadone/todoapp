@@ -1,0 +1,35 @@
+.list {
+    background-color: white;
+    padding: 5px;
+    padding-left: 10px;
+    width: 200px;
+    margin-left:25px ;
+    /* margin-top: 10px; */
+    /* margin-bottom: 5px; */
+    border-radius: 5px; 
+    border: 0;
+    color: black;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    font-family: cursive ;
+    box-sizing: border-box;
+}
+
+.del {
+    color:white;
+    height: 30px;
+    width: 35px;
+    background-color: purple;
+    font-weight: bolder;
+    border-radius: 25%;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    left:290px;
+    bottom: 30px;
+
+
+}
+
+
